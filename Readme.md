@@ -13,7 +13,7 @@ To download the tweets you can either build a custom tool or use the [script pro
 The way in which the script should be invoked is:
 * Format: python [scriptname] [inputfilename] > [outputfilename]
 * So in order to download the the 661 annotations used in the *Second evaluation using the initial data set* section of our paper the needed command would be:
-** python download_binary_twitter_data.py 661_CrowdFlower_Expert/661_CrowdFlower_Expert.tsv > test.txt
+  * python download_binary_twitter_data.py 661_CrowdFlower_Expert/661_CrowdFlower_Expert.tsv > test.txt
 
 Alternatively, you can use Twitter API to retrieve the tweets using the ID as described in [the documentation: https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid](https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid)
 
