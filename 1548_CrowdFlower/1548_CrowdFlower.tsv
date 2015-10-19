@@ -1,4 +1,4 @@
-tweet ID	_golden	is_the_tweet_text_in_the_english_language	the_text_is_about_the_drugs_of_interest	genre_in_which_the_drug_is_mentioned_	sentiment_of_the_author_about_the_drug	theme_on_the_drug_ussage
+tweet_ID	_golden	is_the_tweet_text_in_the_english_language	the_text_is_about_the_drugs_of_interest	genre_in_which_the_drug_is_mentioned_	sentiment_of_the_author_about_the_drug	theme_on_the_drug_ussage
 297480231076388864	true	Yes	No	First-hand experience (The writer is taking the drug. He's telling a personal experience.)	Neither positive nor negative (neutral)	Pleasure (Drug usage as a pleasurable activity)
 302067025457602560	true	Yes	Yes	Opinion (The writer is giving his opinion,thoughts or point of view on something)	Neither positive nor negative (neutral)	Pleasure (Drug usage as a pleasurable activity)
 200794032853622784	true	Yes	Yes	Opinion (The writer is giving his opinion,thoughts or point of view on something)	Neither positive nor negative (neutral)	
