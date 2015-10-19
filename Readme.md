@@ -11,3 +11,5 @@ This project contains 4 folders:
 To download the tweets you can either build a custom tool or use the one provided by DIEGO LAB Biomedical Informatics Lab at ASU: http://diego.asu.edu/downloads/download_binary_twitter_data.py feeding it with the Tweet IDs (as no username is provided any existing username such as "twitter" should work)
 
 Our publication can be found at: **TBD** .
+
+If you use any of these data, please cite our publication: **TBD** .
