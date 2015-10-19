@@ -11,9 +11,9 @@ This project contains 4 folders:
 To download the tweets you can either build a custom tool or use the [script provided by DIEGO LAB Biomedical Informatics Lab at ASU: http://diego.asu.edu/downloads/download_binary_twitter_data.py](http://diego.asu.edu/downloads/download_binary_twitter_data.py) replacing **fields[1]** in line saying **userid = fields[1]** with any existing Twitter user name (such as "twitter") and obtaining **userid = "twitter"**. We have included on this repository a version of the script with the needed change already performed.
 
 The way in which the script should be invoked is:
-* **python** *[scriptname]* *[inputfilename]* **>** *[outputfilename]*
+* **python download_binary_twitter_data.py** *[inputfilename]* **>** *[outputfilename]*
 * So in order to download the the 661 annotations used in the *Second evaluation using the initial data set* section of our paper the needed command would be:
-  * **python** *download_binary_twitter_data.py* *661_CrowdFlower_Expert/661_CrowdFlower_Expert.tsv* **>** *test.txt*
+  * **python download_binary_twitter_data.py** *661_CrowdFlower_Expert/661_CrowdFlower_Expert.tsv* **>** *test.txt*
 
 Alternatively, you can use Twitter API to retrieve the tweets using the ID as described in [the documentation: https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid](https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid)
 
