@@ -8,7 +8,7 @@ This project contains 4 folders:
 * **661_CrowdFlower_Expert**: Contains the 661 annotations used in the *Second evaluation using the initial data set* section of our paper.
 * **3211_Experts**: Contains the 3211 annotations used in the *Extended evaluation* section of our paper.
 
-To download the tweets you can either build a custom tool or use the [script provided by DIEGO LAB Biomedical Informatics Lab at ASU: http://diego.asu.edu/downloads/download_binary_twitter_data.py](http://diego.asu.edu/downloads/download_binary_twitter_data.py) replacing the line saying **userid = fields[1]** with any existing Twitter user name such as "twitter" **userid = "twitter"**.
+To download the tweets you can either build a custom tool or use the [script provided by DIEGO LAB Biomedical Informatics Lab at ASU: http://diego.asu.edu/downloads/download_binary_twitter_data.py](http://diego.asu.edu/downloads/download_binary_twitter_data.py) replacing **fields[1]** in line saying **userid = fields[1]** with any existing Twitter user name (such as "twitter") and obtaining **userid = "twitter"**.
 
 Alternatively, you can use Twitter API to retrieve the tweets using the ID as described in [the documentation: https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid](https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid)
 
