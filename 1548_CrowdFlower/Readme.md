@@ -14,6 +14,7 @@ The annotated fields are:
 
 Clarifications on these fields can be found in our publication, please refer to it for further details.
 
-* *To see which are the drugs of Interest, please refer to our publication.*
-** *The available genres are "First-hand experience", "Other's Experience", "Activism", "Cultural reference", "Humor", "News", "Info/resource", "Marketing", "Opinion", "Sentiment".*
+! *To see which are the drugs of Interest, please refer to our publication.*
+
+!! *The available genres are "First-hand experience", "Other's Experience", "Activism", "Cultural reference", "Humor", "News", "Info/resource", "Marketing", "Opinion", "Sentiment".*
 
