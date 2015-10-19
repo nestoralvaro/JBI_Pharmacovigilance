@@ -3,7 +3,7 @@ The file 1548_CrowdFlower.ods contains all the annotations we retrieved from Cro
 
 ## Fields
 The annotated fields are:
-* **Tweet_ID**: Indicates the ID of the tweet. This unique identifier can be used to retrieve the tweet (some tweets could have been removed).
+* **tweet_ID**: Indicates the ID of the tweet. This unique identifier can be used to retrieve the tweet (some tweets could have been removed).
 * **_golden**: True when the tweet was one of the 100 tweets composing the gold standard.
 * **is_the_tweet_text_in_the_english_language**: True when the tweet is written in English.
 * **the_text_is_about_the_drugs_of_interest**: True when the tweet is about any of the drugs of interest[!].
