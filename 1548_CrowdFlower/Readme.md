@@ -1,5 +1,5 @@
 # Description
-The file 1548_CrowdFlower.ods contains all the annotations we retrieved from Crowdflower. These 1548 tweets include the 899 tweets that we used to train our models and also the tweets that were left out in our experiments.
+The files 1548_CrowdFlower.ods (in Open Office Format) and 1548_CrowdFlower.tsv (tab separated values format) contain all the annotations we retrieved from Crowdflower. Both files contain the same information.
 
 ## Fields
 The annotated fields are:
