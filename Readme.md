@@ -14,10 +14,10 @@ The way in which the script should be invoked is:
 * **python download_binary_twitter_data.py** *INPUT_FILE_NAME* **>** *OUTPUT_FILE_NAME*
 * So in order to download the the 661 annotations used in the *Second evaluation using the initial data set* section of our paper the needed command would be:
   * **python download_binary_twitter_data.py** *661_CrowdFlower_Expert.tsv* **>** *output661.txt*
-  * The generated file (*output661.txt*) will contain the following 3 fields separated by tabs.
-    * TweetID
-    * Annotation for that tweet 
-    * Text of the tweet
+    * In this example the generated file (*output661.txt*) will contain the following 3 fields separated by tabs.
+      * Tweet Identifier (tweet_ID).
+      * Annotation for that tweet.
+      * Text of the tweet.
 
 Alternatively, you can use Twitter API to retrieve the tweets using the ID as described in [the documentation: https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid](https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid)
 
