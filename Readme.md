@@ -25,7 +25,7 @@ Our publication can be found at: http://www.sciencedirect.com/science/article/pi
 
 
 If you use any of these data, please cite our publication:
-
+```
 @article{alvaro2015crowdsourcing,
   title={Crowdsourcing Twitter annotations to identify first-hand experiences of prescription drug use},
   author={Alvaro, Nestor and Conway, Mike and Doan, Son and Lofi, Christoph and Overington, John and Collier, Nigel},
@@ -35,3 +35,4 @@ If you use any of these data, please cite our publication:
   year={2015},
   publisher={Elsevier}
 }
+```
