@@ -21,6 +21,17 @@ The way in which the script should be invoked is:
 
 Alternatively, you can use Twitter API to retrieve the tweets using the ID as described in [the documentation: https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid](https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid)
 
-Our publication can be found at: **TBD** .
+Our publication can be found at: http://www.sciencedirect.com/science/article/pii/S1532046415002415
 
-If you use any of these data, please cite our publication: **TBD** .
+
+If you use any of these data, please cite our publication:
+
+@article{alvaro2015crowdsourcing,
+  title={Crowdsourcing Twitter annotations to identify first-hand experiences of prescription drug use},
+  author={Alvaro, Nestor and Conway, Mike and Doan, Son and Lofi, Christoph and Overington, John and Collier, Nigel},
+  journal={Journal of biomedical informatics},
+  volume={58},
+  pages={280--287},
+  year={2015},
+  publisher={Elsevier}
+}
